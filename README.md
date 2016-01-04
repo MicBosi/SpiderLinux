@@ -1,6 +1,8 @@
 # Spider Linux
 Linux for web developers.
 
+Supported distros: Linux Mint (preferred), Ubuntu LTS 14.04 & 16.04 (fallback), (Debian on a best effort basis).
+
 All the tools from WPEmerge project will be moved into Spider Linux and will be accessible through the "slin" command, ex:
 
 > slin install lamp-local
@@ -28,5 +30,3 @@ All the tools from WPEmerge project will be moved into Spider Linux and will be 
 > slin backup website
 
 The objective is to be useful mainly for users of Apache, PHP, JavaScript, node.js, AngularJS, Electron, Flux/React, Laravel, Vagrant and assist the web developer in the mundane tasks of creating and tearing down websites and apps, publishing changes, testing, backing up etc.
-
-
